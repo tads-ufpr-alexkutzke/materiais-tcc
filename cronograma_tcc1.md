@@ -35,15 +35,15 @@
   - Definição de cronograma e de reuniões;
 - Semana 2
   - Pesquisa e definição do tema;
-- Semana 3
+- ❗️ Semana 3
   - 📝 Prévia da Introdução;
 - Semana 4
   - Pesquisa para fundamentação teórica;
   - Revisão da Introdução;
-- Semana 5
+- ❗️ Semana 5
   - Pesquisa para fundamentação teórica;
   - 📆 **Entrega: versão final Introdução**;
-- Semana 6
+- ❗️ Semana 6
   - 📝 Prévia da Fundamentação Teórica;
 - Semana 7
   - Definição da metodologia, tecnologias e requisitos;
@@ -51,14 +51,14 @@
 - Semana 8
   - Modelagem da solução;
   - Revisão da Fundamentação Teórica
-- Semana 9
+- ❗️ Semana 9
   - Modelagem da solução;
   - 📆 **Entrega: versão final Fundamentação Teórica**;
 - Semana 10
   - Modelagem da solução;
 - Semana 11
   - Modelagem da solução;
-- Semana 12
+- ❗️ Semana 12
   - 📝 Prévia de Materiais e Métodos;
 - Semana 13
   - Implementação do protótipo e correções;
@@ -66,7 +66,7 @@
 - Semana 14
   - Implementação do protótipo e correções;
   - Revisão dos Materiais e Métodos;
-- Semana 15
+- ❗️❗️ Semana 15
   - Preparação para a banca;
   - 📆 **Entrega: versão final do documento e do protótipo**;
 
