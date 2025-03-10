@@ -37,7 +37,7 @@
 | 2 |Pesquisa e definição do tema;  |
 | 3 | 📝 Prévia da Introdução;  |
 | 4 | <ul><li>Pesquisa para fundamentação teórica;</li><li>Revisão da Introdução;</li></ul>|
-| 5 | <ul><li>Pesquisa para fundamentação teórica;</li><li>📆 **Entrega: versão final da Introdução;</li></ul>| 
+| 5 | <ul><li>Pesquisa para fundamentação teórica;</li><li>📆 **Entrega: versão final da Introdução**;</li></ul>| 
 | 6 | 📝 Prévia da Fundamentação Teórica; |
 | 7 | <ul><li>Definição da metodologia, tecnologias e requisitos;</li><li>Revisão da Fundamentação Teórica;</li></ul>| 
 | 8 | <ul><li>Modelagem da solução;</li><li>Revisão da Fundamentação Teórica;</li></ul>|
