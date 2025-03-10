@@ -31,44 +31,23 @@
 
 ## ⏳ Sugestão de Cronograma
 
-- Semana 1
-  - Definição de cronograma e de reuniões;
-- Semana 2
-  - Pesquisa e definição do tema;
-- ❗️ Semana 3
-  - 📝 Prévia da Introdução;
-- Semana 4
-  - Pesquisa para fundamentação teórica;
-  - Revisão da Introdução;
-- ❗️ Semana 5
-  - Pesquisa para fundamentação teórica;
-  - 📆 **Entrega: versão final Introdução**;
-- ❗️ Semana 6
-  - 📝 Prévia da Fundamentação Teórica;
-- Semana 7
-  - Definição da metodologia, tecnologias e requisitos;
-  - Revisão da Fundamentação Teórica
-- Semana 8
-  - Modelagem da solução;
-  - Revisão da Fundamentação Teórica
-- ❗️ Semana 9
-  - Modelagem da solução;
-  - 📆 **Entrega: versão final Fundamentação Teórica**;
-- Semana 10
-  - Modelagem da solução;
-- Semana 11
-  - Modelagem da solução;
-- ❗️ Semana 12
-  - 📝 Prévia de Materiais e Métodos;
-- Semana 13
-  - Implementação do protótipo e correções;
-  - Revisão dos Materiais e Métodos;
-- Semana 14
-  - Implementação do protótipo e correções;
-  - Revisão dos Materiais e Métodos;
-- ❗️❗️ Semana 15
-  - Preparação para a banca;
-  - 📆 **Entrega: versão final do documento e do protótipo**;
+| Semana | Itens/Entregas | 
+| ------------- | --------|
+| 1 |Definição de cronograma e de reuniões;|
+| 2 |Pesquisa e definição do tema;  |
+| 3 | 📝 Prévia da Introdução;  |
+| 4 | <ul><li>Pesquisa para fundamentação teórica;</li><li>Revisão da Introdução;</li></ul>|
+| 5 | <ul><li>Pesquisa para fundamentação teórica;</li><li>📆 **Entrega: versão final da Introdução;</li></ul>| 
+| 6 | 📝 Prévia da Fundamentação Teórica; |
+| 7 | <ul><li>Definição da metodologia, tecnologias e requisitos;</li><li>Revisão da Fundamentação Teórica;</li></ul>| 
+| 8 | <ul><li>Modelagem da solução;</li><li>Revisão da Fundamentação Teórica;</li></ul>|
+| 9 | <ul><li>Modelagem da solução;</li><li>📆 **Entrega: versão final Fundamentação Teórica**;</li></ul>|
+| 10 | Modelagem da solução;|
+| 11 | Modelagem da solução;|
+| 12 | 📝 Prévia de Materiais e Métodos;|
+| 13 | <ul><li>Implementação do protótipo e correções; </li><li>Revisão dos Materiais e Métodos;</li></ul>|
+| 14 | <ul><li>Implementação do protótipo e correções; </li><li>Revisão dos Materiais e Métodos;</li></ul>|
+| 15 | <ul><li>Preparação para a banca;</li><li> 📆 **Entrega: versão final do documento e do protótipo**;</li></ul>|
 
 [^1]: é comum que os objetivos específicos sejam escritos como requisitos do sistemas, por exemplo, gerenciar usuários, ter tela X, ser eficiente. Isso não é errado, mas é mais interessante quando os objetivos específicos são formados por itens relacionados ou utilizados para se alcançar o objetivo geral, por exemplo, atender a demanda X, gerar um dataset Y, revisar as aplicações semelhantes, resolver o subproblema W, etc.
 [^2]: os diagramas devem ser citados no capítulos 3, mas colocados apenas em forma de apêndices. Salvo diagramas mais simples e importantes para o entendimento da solução (como um diagrama da arquitetura). Nesse caso, esses diagramas podem ser colocado no decorrer do capítulo 3.
