@@ -71,24 +71,6 @@
 
 ---
 
-## 🗺️ Visão Geral do Semestre
-
-```
-                                  Semana
-            1  2  3  4  5  6  7  8  9  10 11 12 13 14 15
-            ─────────────────────────────────────────────
-Etapa 0    Organização              ██···················
-Etapa 1    Introdução               ··█████··············
-Etapa 2    Fundamentação Teórica    ········██████········
-Etapa 3    Materiais e Métodos      ··············████····
-Etapa 4    PoC e Finalização        ··················████
-Etapa 5    Avaliação                (após semana 15)
-```
-
-> 📌 As Etapas 3 e 4 avançam de forma paralela: a modelagem da solução (Etapa 3) alimenta diretamente a implementação da Prova de Conceito (Etapa 4).
-
----
-
 ## Notas
 
 [^1]: É comum que os objetivos específicos sejam escritos como requisitos de sistema, por exemplo: *gerenciar usuários, ter tela X, ser eficiente*. Isso não é errado, mas é mais interessante quando os objetivos específicos são formados por itens relacionados ou utilizados para se alcançar o objetivo geral, por exemplo: *atender a demanda X, gerar um dataset Y, revisar as aplicações semelhantes, resolver o subproblema W*, etc.

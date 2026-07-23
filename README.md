@@ -15,6 +15,7 @@ Prof. Alexander Robert Kutzke
 | [`cronograma_tcc1.md`](./cronograma_tcc1.md) | Cronograma detalhado semana a semana, com prévias e entregas |
 | [`guia_artigo_tcc1.md`](./guia_artigo_tcc1.md) | Estrutura do artigo, dicas de redação e footnotes importantes |
 | [`checklist_tcc1.md`](./checklist_tcc1.md) | Checklist completo de entregas (artigo, espec. técnica, PoC) |
+| [`guia_lgpd_tcc.md`](./guia_lgpd_tcc.md) | Orientações sobre LGPD: quando se aplica, como demonstrar conformidade |
 
 ## 💻 TCC 2 (DS960)
 
